@@ -2,7 +2,8 @@ This is the firmware for our Simple Display
 
 Manual: https://github.com/JohnSpintend/Spintend-manuals/wiki/Simple-display-manual
 
-Firmware change log:
+
+Change log:
 
 2025-10-14 
 version 10
