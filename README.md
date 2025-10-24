@@ -4,11 +4,11 @@ Manual: https://github.com/JohnSpintend/Spintend-manuals/wiki/Simple-display-man
 
 Change log:
 
-2025-10-14 version 1.1
+2025-10-14 Version 1.1
 
 Added vesc 6.06 support, and fixed dutycycle bug
 
 
-2025-10-14 version 1.0
+2025-10-14 Version 1.0
 
-initial release
+Initial release
