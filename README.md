@@ -10,7 +10,7 @@ Add kph_1xx file, the speed number will be in 1xx kph/mph format, no dot, instea
 
 2025-10-14 Version 1.1
 
-Added vesc 6.06 support, and fixed dutycycle bug
+Added VESC 6.06 support, and fixed duty cycle bug.
 
 2025-10-14 Version 1.0
 
